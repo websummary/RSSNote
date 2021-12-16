@@ -18,11 +18,11 @@ Tomorow:
 ___
 # Day Four 16.12
 ## Модуль "Инструменты разработчика Chrome, VS Code, Терминал"
-* Сергей много полезного расказал и довольно подробно,ни одного стакана не налил все по делу. Надеюсь общий доступ откроют, такой материал должен быть массово распростронен.
+* Сергей много полезного рассказал и довольно подробно,ни одного стакана не налил все по делу. Надеюсь общий доступ откроют, такой материал должен быть массово распространен.
 ### Extension VS Code
 * Auto Close Tag
-* Emmet
-* Auto Rename Tag Clone
+* Emmet / Встроен надо подробней изучить
+* Auto Rename Tag
 * HTML CSS Support
 * Visual Studio IntelliCode
 * IntelliSense for CSS class names in HTML
@@ -33,4 +33,7 @@ ___
 * vscode-icons
 * Bracket Pair Colorizer
 * Git bash / for windows
-* 
+* Git Graph
+* Shell launcher
+
+[StackBlitz - это онлайн-среда IDE](https://stackblitz.com/) - VS Code online от энтузиастов
