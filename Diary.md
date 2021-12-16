@@ -17,3 +17,20 @@ Tomorow:
 * Полистать заметки по VS Code
 ___
 # Day Four 16.12
+## Модуль "Инструменты разработчика Chrome, VS Code, Терминал"
+* Сергей много полезного расказал и довольно подробно,ни одного стакана не налил все по делу. Надеюсь общий доступ откроют, такой материал должен быть массово распростронен.
+### Extension VS Code
+* Auto Close Tag
+* Emmet
+* Auto Rename Tag Clone
+* HTML CSS Support
+* Visual Studio IntelliCode
+* IntelliSense for CSS class names in HTML
+* Live Server
+* CSS Peek
+* Prettier - Code formatter
+* open in browser
+* vscode-icons
+* Bracket Pair Colorizer
+* Git bash / for windows
+* 
