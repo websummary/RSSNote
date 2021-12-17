@@ -5,16 +5,16 @@ ___
 
 ___
 # Day Three 15.12
+## Report
 * Пару часов потратил на [HTML для начинающих](https://ru.code-basics.com/languages/html).
 * Пару часов потратил на Test HTML Basics.
 * Параллельно в дискорд поглядывал.
 * Потестил git ориентируясь на статью [Учебное пособие по Git и GitHub](https://www.freecodecamp.org/news/git-and-github-for-beginners/) в этот раз долго провазилcя с SSH.
 ___
-Tomorow:
-* Пробежаться по CSS
-* Прочитать основы JS
-* Сделать проект [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) 
-* Полистать заметки по VS Code
+## Tomorow:
+- [x] Пробежаться по CSS
+- [x] Прочитать основы JS
+- [ ] Сделать проект [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) 
 ___
 # Day Four 16.12
 ## Модуль "Инструменты разработчика Chrome, VS Code, Терминал"
@@ -24,7 +24,6 @@ ___
 * Emmet / Встроен надо подробней изучить
 * Auto Rename Tag
 * HTML CSS Support
-* Visual Studio IntelliCode / Разработка с помощью AI-ассистента
 * IntelliSense for CSS class names in HTML
 * Live Server
 * CSS Peek
@@ -32,8 +31,22 @@ ___
 * open in browser
 * vscode-icons
 * Bracket Pair Colorizer
-* Git bash / for windows
 * Git Graph
 * Shell launcher
 
+* Git bash / for windows
+* Visual Studio IntelliCode / Разработка с помощью AI-ассистента from Microsoft
+
 [StackBlitz - это онлайн-среда IDE](https://stackblitz.com/) - VS Code online от энтузиастов
+___
+## Report
+* Ушло пару часов на курс от Hexlet "Основы CSS".
+* Ушло 1.5 часа на "Основы JavaScript" от того же Hexlet.
+* Опять Git изучал часа 2.
+___
+## Tomorow:
+- [ ] Добить курсы по CSS abd JS.
+- [ ] Все таки сделать проект от FreeCodeCamp.
+- [ ] Сделать задание CV.md
+___
+# Day Five 17.12
