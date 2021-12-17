@@ -24,7 +24,7 @@ ___
 * Emmet / Встроен надо подробней изучить
 * Auto Rename Tag
 * HTML CSS Support
-* Visual Studio IntelliCode
+* Visual Studio IntelliCode / Разработка с помощью AI-ассистента
 * IntelliSense for CSS class names in HTML
 * Live Server
 * CSS Peek
