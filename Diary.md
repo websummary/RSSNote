@@ -11,7 +11,7 @@ ___
 * Параллельно в дискорд поглядывал.
 * Потестил git ориентируясь на статью [Учебное пособие по Git и GitHub](https://www.freecodecamp.org/news/git-and-github-for-beginners/) в этот раз долго провазилcя с SSH.
 ___
-## Tomorow:
+## Tomorrow:
 - [x] Пробежаться по CSS
 - [x] Прочитать основы JS
 - [ ] Сделать проект [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) 
@@ -43,10 +43,30 @@ ___
 * Ушло пару часов на курс от Hexlet "Основы CSS".
 * Ушло 1.5 часа на "Основы JavaScript" от того же Hexlet.
 * Опять Git изучал часа 2.
+* 2 hour "Модуль "Инструменты разработчика Chrome, VS Code, Терминал"
 ___
-## Tomorow:
+## Tomorrow:
 - [ ] Добить курсы по CSS abd JS.
 - [ ] Все таки сделать проект от FreeCodeCamp.
 - [ ] Сделать задание CV.md
 ___
 # Day Five 17.12
+## Daily Report
+* 30 minutes [CSS для начинающих](https://ru.code-basics.com/languages/css)
+* 1.5 hour [JS для начинающих](https://ru.code-basics.com/languages/javascript)
+* 22 minutes [Жизнь программиста](https://ru.hexlet.io/courses/prog-life)
+* ## 15 minut [Знания, которые не устаревают](https://ru.hexlet.io/courses/prog-life/lessons/knowledge/theory_unit)
+* 4 hours бораздил интернет без структурно, обилие материалов разврощает.
+___
+## Tomorrow
+- [ ] Глянуть их програму, выглядит интересно[Exercism JS](https://exercism.org/tracks/javascript)
+- [ ] Составить личный план обучения согласуещийся с RSS
+___
+
+# Day Six 18.12
+## Daily Report
+* 1 hour [JS для начинающих](https://ru.code-basics.com/languages/javascript)
+___
+## Tomorrow
+- [ ] Составить личный план обучения согласуещийся с RSS
+___
