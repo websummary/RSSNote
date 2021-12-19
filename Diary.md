@@ -46,7 +46,7 @@ ___
 * 2 hour "Модуль "Инструменты разработчика Chrome, VS Code, Терминал"
 ___
 ## Tomorrow:
-- [ ] Добить курсы по CSS abd JS.
+- [ ] Добить курсы по CSS and JS.
 - [ ] Все таки сделать проект от FreeCodeCamp.
 - [ ] Сделать задание CV.md
 ___
@@ -60,7 +60,6 @@ ___
 ___
 ## Tomorrow
 - [ ] Глянуть их програму, выглядит интересно[Exercism JS](https://exercism.org/tracks/javascript)
-- [ ] Составить личный план обучения согласуещийся с RSS
 ___
 
 # Day Six 18.12
@@ -70,3 +69,15 @@ ___
 ## Tomorrow
 - [ ] Составить личный план обучения согласуещийся с RSS
 ___
+# Day Seven 19.12
+## Daily Report
+*  1 hour [JS для начинающих](https://ru.code-basics.com/languages/javascript)
+*  3 hour / Have read helpful articles.
+*  0.5 hour CV.md
+*  1.5 hour [VS Code Полный Курс для JavaScript разработчиков](https://www.youtube.com/watch?v=QeUp3CahkQw)
+	*  Extensions:
+	*  EditorConfig for VS Code
+	*  ESLint
+	*  JS Parameter Annotations
+	*  GitLens
+	*  advanced-new-file
