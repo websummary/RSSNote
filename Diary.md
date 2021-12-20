@@ -81,3 +81,11 @@ ___
 	*  JS Parameter Annotations
 	*  GitLens
 	*  advanced-new-file
+___
+
+# Day Eight 20.12
+## Daily Report
+*  40 minutes [JS для начинающих](https://ru.code-basics.com/languages/javascript)
+*  2 hour / Have read helpful articles.
+*  1 hour [JSt видео курс для Начинающих](https://youtu.be/Bluxbh9CaQ0?t=6231)
+*  30 minutes Codewars
