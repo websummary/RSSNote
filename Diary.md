@@ -86,6 +86,14 @@ ___
 # Day Eight 20.12
 ## Daily Report
 *  40 minutes [JS для начинающих](https://ru.code-basics.com/languages/javascript)
-*  2 hour / Have read helpful articles.
-*  1 hour [JSt видео курс для Начинающих](https://youtu.be/Bluxbh9CaQ0?t=6231)
+*  2 hour / Hav read helpful articles.
+*  1 hour [JS видео курс для Начинающих](https://youtu.be/Bluxbh9CaQ0?t=6231)
 *  30 minutes Codewars
+___
+# Day Nine 21.12
+## Daily Report
+*  2 hours [JS для начинающих](https://ru.code-basics.com/languages/javascript)
+*  1 hour / Hav read helpful articles.
+*  80 minutes Codewars
+*  2 hours [Learn JS](https://learn.javascript.ru/)
+*  1 hour [JS/FE Stage#0 2022Q1 Основы HTML и CSS](https://www.youtube.com/watch?v=bT5auLQA5Ns	)  
