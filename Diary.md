@@ -96,4 +96,9 @@ ___
 *  1 hour / Hav read helpful articles.
 *  80 minutes Codewars
 *  2 hours [Learn JS](https://learn.javascript.ru/)
-*  1 hour [JS/FE Stage#0 2022Q1 Основы HTML и CSS](https://www.youtube.com/watch?v=bT5auLQA5Ns	)  
+*  1 hour [JS/FE Stage#0 2022Q1 Основы HTML и CSS](https://www.youtube.com/watch?v=bT5auLQA5Ns)
+___
+# Day Ten 22.12
+## Daily Report
+*  3.5 hours [JS для начинающих](https://ru.code-basics.com/languages/javascript)
+*  1 hour / Hav read helpful articles.
