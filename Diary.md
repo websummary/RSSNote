@@ -112,3 +112,8 @@ ___
 ## Daily Report
 *  4 hours [JS для начинающих](https://ru.code-basics.com/languages/javascript)
 *  1 hour / Hav read helpful articles.
+___
+# Day Twelve 24.12
+## Daily Report
+*  2 hours [JS для начинающих](https://ru.code-basics.com/languages/javascript)
+*  1 hour / Hav read helpful articles.
