@@ -129,3 +129,10 @@ ___
 *  1 hours [JS для начинающих](https://ru.code-basics.com/languages/javascript) Completed the course. Последние два раздела поплыл, надо повторить материал через пару дней, курс интересен, когда прочту учебник по JS то сравню подходы. На данный момент хотелось бы учебник с списком задач в том же кодеварсе.
    Итого ушло 19 часов 10 дней + много попутно читал доп материалов они считались отдельно.
 *  1 hour / Hav read helpful articles.
+___
+# Day Fifteen 27.12
+## Daily Report
+* 1 hour / Hav read helpful articles.
+* 1 hour [Basic JavaScript freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
+* 2 hour [Codewars](https://www.codewars.com/)
+* 4 hour [Learn JS](https://learn.javascript.ru/)
