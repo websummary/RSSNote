@@ -136,3 +136,12 @@ ___
 * 1 hour [Basic JavaScript freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
 * 2 hour [Codewars](https://www.codewars.com/)
 * 4 hour [Learn JS](https://learn.javascript.ru/)
+___
+# Day Sixteen 28.12
+## Daily Report
+* 1 hour / Hav read helpful articles.
+* 0.5 hour [Basic JavaScript freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
+* 1 hour [Codewars](https://www.codewars.com/)
+* 2 hour [Learn JS](https://learn.javascript.ru/)
+* 1.5 hour [JS видео курс для Начинающих](https://youtu.be/Bluxbh9CaQ0?t=6231)
+* 1 hour [Exercism JS](https://exercism.org/tracks/javascript)
