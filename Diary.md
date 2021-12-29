@@ -145,3 +145,11 @@ ___
 * 2 hour [Learn JS](https://learn.javascript.ru/)
 * 1.5 hour [JS видео курс для Начинающих](https://youtu.be/Bluxbh9CaQ0?t=6231)
 * 1 hour [Exercism JS](https://exercism.org/tracks/javascript)
+___
+# Day Seventeen 29.12
+## Daily Report
+* 1 hour / Hav read helpful articles.
+* 40 minutes [Basic JavaScript freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
+* 2 hour [Codewars](https://www.codewars.com/)
+* 1 hour [Learn JS](https://learn.javascript.ru/)
+* 40 minutes [JS видео курс для Начинающих](https://youtu.be/Bluxbh9CaQ0?t=6231)
