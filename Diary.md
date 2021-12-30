@@ -153,3 +153,13 @@ ___
 * 2 hour [Codewars](https://www.codewars.com/)
 * 1 hour [Learn JS](https://learn.javascript.ru/)
 * 40 minutes [JS видео курс для Начинающих](https://youtu.be/Bluxbh9CaQ0?t=6231)
+___
+# Day Eyghteen 30.12
+## Daily Report
+* 2 hour / Hav read helpful articles.
+* 1 hour [Codewars](https://www.codewars.com/)
+* 0.5 hour [Learn JS](https://learn.javascript.ru/)
+* 20 minutes [JS видео курс для Начинающих](https://youtu.be/Bluxbh9CaQ0?t=6231)
+* 1 hour YouTube
+* 45 minutes [CSS Flexbox freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox)
+* 1 hour Test Flexbox.
