@@ -163,3 +163,10 @@ ___
 * 1 hour YouTube
 * 45 minutes [CSS Flexbox freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox)
 * 1 hour Test Flexbox.
+___
+# Day Nineteen 31.12
+## Daily Report
+* 1 hour / Hav read helpful articles.
+* 0.5 hour [Codewars](https://www.codewars.com/)
+* 1 hour [Learn JS](https://learn.javascript.ru/)
+* 40 minutes [JS видео курс для Начинающих](https://youtu.be/Bluxbh9CaQ0?t=6231)
