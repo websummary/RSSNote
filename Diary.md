@@ -171,7 +171,13 @@ ___
 * 1 hour [Learn JS](https://learn.javascript.ru/)
 * 40 minutes [JS видео курс для Начинающих](https://youtu.be/Bluxbh9CaQ0?t=6231)
 ___
-# Day Tventy 02.01
+# Day Twentieth 02.01
 ## Daily Report
 * 1 hour / Hav read helpful articles.
-* 3.5 hours CV
+* 3.5 hours task CV
+___
+# Day Twenty First 03.01
+## Daily Report
+* 1 hour / Hav read helpful articles.
+* 3 hours task CV
+* 1 hour [Learn JS](https://learn.javascript.ru/)
