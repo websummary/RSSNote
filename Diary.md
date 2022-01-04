@@ -181,3 +181,11 @@ ___
 * 1 hour / Hav read helpful articles.
 * 3 hours task CV
 * 1 hour [Learn JS](https://learn.javascript.ru/)
+___
+# Day Twenty Two 03.01
+## Daily Report
+* 2 hour / Hav read helpful articles.
+* 1 hours task [reverse-int](https://github.com/websummary/reverse-int)
+* 1 hour [Learn JS](https://learn.javascript.ru/)
+* 1 hour YouTube
+* 2 hour task [human-readable-number](https://github.com/rolling-scopes-school/human-readable-number)
