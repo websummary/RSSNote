@@ -182,10 +182,17 @@ ___
 * 3 hours task CV
 * 1 hour [Learn JS](https://learn.javascript.ru/)
 ___
-# Day Twenty Two 03.01
+# Day Twenty Two 04.01
 ## Daily Report
 * 2 hour / Hav read helpful articles.
 * 1 hours task [reverse-int](https://github.com/websummary/reverse-int)
 * 1 hour [Learn JS](https://learn.javascript.ru/)
 * 1 hour YouTube
 * 2 hour task [human-readable-number](https://github.com/rolling-scopes-school/human-readable-number)
+___
+# Day Twenty Three 05.01
+## Daily Report
+* 1 hour / Hav read helpful articles.
+* 1.5 hour task [human-readable-number](https://github.com/rolling-scopes-school/human-readable-number)
+* 1 hour [Основы командной строки](https://ru.hexlet.io/courses/cli-basics)
+* 0.5 hour task ["Portfolio#1. Фиксированная вёрстка"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/portfolio/portfolio-part1.md) [MyPortfolio](https://rolling-scopes-school.github.io/websummary-JSFEPRESCHOOL/portfolio/)
