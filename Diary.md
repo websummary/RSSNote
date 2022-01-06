@@ -196,3 +196,13 @@ ___
 * 1.5 hour task [human-readable-number](https://github.com/rolling-scopes-school/human-readable-number)
 * 1 hour [Основы командной строки](https://ru.hexlet.io/courses/cli-basics)
 * 0.5 hour task ["Portfolio#1. Фиксированная вёрстка"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/portfolio/portfolio-part1.md) [MyPortfolio](https://rolling-scopes-school.github.io/websummary-JSFEPRESCHOOL/portfolio/)
+___
+# Day Twenty Four 06.01
+## Daily Report
+* 0.5 hour / Hav read helpful articles.
+* 2.5 hour [Основы командной строки](https://ru.hexlet.io/courses/cli-basics)
+* 1 hour CV. Cross Check
+	* [Nikitin Vladimir](https://vladimirsev.github.io/rsschool-cv/) [GitHub](https://github.com/VladimirSev) 115
+	* [VALENTINA LEIKHKE](https://valentinaleikhke.github.io/rsschool-cv/) [GitHub]() 110
+	* [Daniil Kochkin](https://jaysuno0.github.io/rsschool-cv/) [GitHub](https://github.com/jaysuno0) 120
+	* [Serhii Lienivenko](https://sten-kh.github.io/rsschool-cv/) [GitHub](https://github.com/sten-kh) 110
