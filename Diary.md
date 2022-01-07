@@ -206,3 +206,10 @@ ___
 	* [VALENTINA LEIKHKE](https://valentinaleikhke.github.io/rsschool-cv/) [GitHub]() 110
 	* [Daniil Kochkin](https://jaysuno0.github.io/rsschool-cv/) [GitHub](https://github.com/jaysuno0) 120
 	* [Serhii Lienivenko](https://sten-kh.github.io/rsschool-cv/) [GitHub](https://github.com/sten-kh) 110
+	___
+# Day Twenty Five 07.01
+## Daily Report
+* 2.5 hour / Hav read helpful articles.
+* 2 hour task [human-readable-number](https://github.com/rolling-scopes-school/human-readable-number) 
+* 1 hour [JS/FE Stage#0 2022Q1 JS Functions](https://www.youtube.com/watch?v=-C5BMLDnPcY)
+* 0.5 hour [Codewars](https://www.codewars.com/)
