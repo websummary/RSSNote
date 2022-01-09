@@ -218,3 +218,9 @@ ___
 ## Daily Report
 * 1.5 hour / Hav read helpful articles.
 * 2 hour [Основы командной строки](https://ru.hexlet.io/courses/cli-basics)
+___
+# Day Twenty Seven 09.01
+## Daily Report
+* 1 hour / Hav read helpful articles.
+* 2 hour [Learn JS](https://learn.javascript.ru/)
+* 2 hour task ["Portfolio#1. Фиксированная вёрстка"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/portfolio/portfolio-part1.md) 
