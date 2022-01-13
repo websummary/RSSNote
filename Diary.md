@@ -235,3 +235,8 @@ ___
 ## Daily Report
 * 1 hour [Learn JS](https://learn.javascript.ru/)
 * 1 hour Auto-Test 'Test JS Basics'
+___
+# Day Thirtieth 13.01
+## Daily Report
+* 1 hour / Hav read helpful articles.
+* 4 hour [Learn JS](https://learn.javascript.ru/)
