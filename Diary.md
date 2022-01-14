@@ -240,3 +240,8 @@ ___
 ## Daily Report
 * 1 hour / Hav read helpful articles.
 * 4 hour [Learn JS](https://learn.javascript.ru/)
+___
+# Day thirty-first 14.01
+## Daily Report
+* 2 hour / Hav read helpful articles.
+* 2 hour [Learn JS](https://learn.javascript.ru/)
