@@ -245,3 +245,7 @@ ___
 ## Daily Report
 * 2 hour / Hav read helpful articles.
 * 2 hour [Learn JS](https://learn.javascript.ru/)
+___
+# Day thirty-two 16.01
+## Daily Report
+* 1 hour [Learn JS](https://learn.javascript.ru/)
