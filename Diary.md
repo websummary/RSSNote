@@ -249,3 +249,9 @@ ___
 # Day thirty-two 16.01
 ## Daily Report
 * 1 hour [Learn JS](https://learn.javascript.ru/)
+___
+# Day thirty-third 17.01
+## Daily Report
+* 1 hour / Hav read helpful articles.
+* 7 hour task ["Portfolio#1. Фиксированная вёрстка"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/portfolio/portfolio-part1.md) 
+* 0.5 hour [Владилен Минин - CSS для Начинающих - Практический Курс [2021]](https://www.youtube.com/watch?v=SpCUuyZZTp8)
