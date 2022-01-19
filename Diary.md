@@ -260,3 +260,9 @@ ___
 ## Daily Report
 * 1 hour / Hav read helpful articles.
 * 1 hour task ["Portfolio#1. Фиксированная вёрстка"](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/portfolio/portfolio-part1.md)
+___
+# Day thirty-fifth 19.01
+## Daily Report
+* 0.5 hour / Hav read helpful articles.
+* 2 hour [Learn JS](https://learn.javascript.ru/)
+* 1 hour Cross-Check Portfolio#1
