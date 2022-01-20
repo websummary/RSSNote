@@ -266,3 +266,8 @@ ___
 * 0.5 hour / Hav read helpful articles.
 * 2 hour [Learn JS](https://learn.javascript.ru/)
 * 1 hour Cross-Check Portfolio#1
+___
+# Day thirty-sixth 20.01
+## Daily Report
+* 1 hour [Learn JS](https://learn.javascript.ru/)
+* 1 hour [Codewars](https://www.codewars.com/)
