@@ -271,3 +271,10 @@ ___
 ## Daily Report
 * 1 hour [Learn JS](https://learn.javascript.ru/)
 * 1 hour [Codewars](https://www.codewars.com/)
+___
+# Day thirty-seventh 21.01
+## Daily Report
+* 1.5 hour / Hav read helpful articles.
+* 1 hour [Learn JS](https://learn.javascript.ru/)
+* 1 hour YouTube JavaScript
+* 1 hour [Codewars](https://www.codewars.com/)
