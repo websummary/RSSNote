@@ -278,3 +278,9 @@ ___
 * 1 hour [Learn JS](https://learn.javascript.ru/)
 * 1 hour YouTube JavaScript
 * 1 hour [Codewars](https://www.codewars.com/)
+___
+# Day thirty-eighth 22.01
+## Daily Report
+* 2.5 hour learn TailwindCSS
+* 1 hour YouTube JavaScript
+* 0.5 hour [Codewars](https://www.codewars.com/)
